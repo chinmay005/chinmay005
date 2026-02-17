@@ -1,72 +1,51 @@
-# 👋 Hi, I'm Chinmay Pramod
+# 👋 Hi, I’m Chinmay Pramod
 
-🎯 **Senior Software Engineer | C# & C++ Developer | Windows & Embedded Systems Specialist**
+💻 **Senior C# Windows Application Developer** with 10+ years of experience in  
+WinForms, UWP, QtQML, ARM64 enablement, Modern Printer Driver and Radar systems.  
 
-With over 10 years of experience in designing, developing, and deploying complex software solutions, I specialize in **Windows-based driver development, embedded systems, and radar applications**. My work spans enterprise environments and defense systems, where performance, reliability, and precision are critical.
+🚀 Currently working on:
+- PSA (UWP project)
+- Personal Finance Tracker (SQLite, charts, validation)
+- ARM64 enablement & optimization projects
 
----
+🌟 What I bring:
+- Advanced debugging & troubleshooting in Visual Studio
+- Strong technical documentation & structured problem-solving
+- Real-world utility projects with clean, professional code
 
-## 🛠️ Technical Skills
-
-- **Languages:** C, C++, C#, Python  
-- **Frameworks & Tools:** .NET, Qt/QML, Visual Studio, Git, VMware  
-- **Operating Systems:** Windows, Linux, VxWorks  
-- **Networking:** TCP/IP, UDP, IPP, Multi-threaded socket programming  
-- **Practices:** Agile, Scrum, Unit Testing, Integration Testing, UML Modeling  
-- **Other Expertise:** HMI Development, Embedded Systems, Device Drivers, Application Debugging  
-
----
-
-## 💼 Professional Experience
-
-### **Mphasis Limited** — Senior Software Engineer *(Oct 2021 – Present)*
-- Developed PSA-compatible printer drivers in C# for Windows 11.  
-- Reduced bug reports by **40%** through optimized printing functionalities.  
-- Improved test coverage by **60%** with unit and integration test suites.  
-- Streamlined Git branching practices, resolving merge conflicts **20% faster**.  
-
-### **Astra Microwave Products Limited** — Senior Software Engineer *(Feb 2015 – Oct 2021)*
-- Built HMI applications for radar systems using Qt/QML and VC++.  
-- Engineered embedded software for beam steering systems, reducing latency by **30%**.  
-- Designed multi-threaded communication modules for radar systems.  
-- Delivered GUI features for aircraft landing systems with live radar overlays.  
+📚 Passionate about:
+- Continuous learning & modern practices
+- Advanced Embedded Technologies (Raspberry Pi, ESP32, FPGAs)
+- Providing Robust Solutions for Real-World problems.
 
 ---
 
-## 🚀 Key Projects
-
-- **Print Support App (PSA):** Printer driver in C# aligned with Microsoft standards for Windows 11.  
-- **V3 Printer Driver:** Enhanced legacy driver software, improving throughput and reducing errors by **25%**.  
-- **Bird Detection Radar:** Real-time radar monitoring with Qt/QML and map overlays.  
-- **Precision Approach Radar:** Optimized radar controller software in C++ for VxWorks RTOS.  
-- **Fixed Head Doppler Radar:** Feature enhancements in C# with zero deployment issues.  
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering (B.E.) in Electronics and Communication**  
-Impact College of Engineering and Applied Science, Bangalore (VTU), 2013  
+## 🔧 Tech Stack
+- **Languages:** C#, C++, QML, XAML, Java
+- **Frameworks:** WinForms, WPF, UWP, Qt framework
+- **Operating System:** Windows, Linux, WxVorks
+- **Tools:** Visual Studio Enterprise, VS Code, Qt Creator, Eclipse, GitHub  
+- **Other:** ARM64, Printer Driver, Barcode Systems, Radar Systems
 
 ---
 
-## 📜 Certifications & Interests
+## 📌 Featured Projects
+👉 [Personal Finance Tracker](https://github.com/chinmay005/PersonalFinanceTracker)  
+A finance management app with category tracking, charts, and error handling.  
 
-- **Certification (Planned):** Microsoft Certified: Azure Developer Associate  
-- **Interests:** Photography, Trekking, Open-source contributions  
+👉 [PSA (UWP Project)]
+Enterprise-grade UWP project with ARM64 support.  
 
----
-
-## 🌐 Portfolio & Contact
-
-- 📧 Email: [chinmay005@gmail.com](mailto:chinmay005@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/chinmay-pramod-39b31676/
-- 🌐 Portfolio Website: *Coming Soon*  
+👉 [Barcode System]
+Robust barcode scanning and management solution.  
 
 ---
 
-## 📌 Current Focus
+## 📈 GitHub Stats
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmay005&show_icons=true&theme=radical)
 
-I’m actively building **open-source projects in C# and .NET** to share on GitHub, ranging from desktop apps to modern web applications. These projects will soon be showcased on my personal portfolio website.
+---
 
-Stay tuned for updates!
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/chinmay-pramod-39b31676/)  
+- [Portfolio Website](#) *(coming soon)*  
